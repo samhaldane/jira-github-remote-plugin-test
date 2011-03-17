@@ -2,3 +2,5 @@ COOL PEOPLE
 
 jroper
 shaldane
+tmoore
+jwilson
